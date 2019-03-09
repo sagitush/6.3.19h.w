@@ -1,0 +1,7 @@
+C:\Users\Liron\source\repos\6.3.19h.w\6.3.19h.w\bin\Debug\6.3.19h.w.exe.config
+C:\Users\Liron\source\repos\6.3.19h.w\6.3.19h.w\bin\Debug\6.3.19h.w.exe
+C:\Users\Liron\source\repos\6.3.19h.w\6.3.19h.w\bin\Debug\6.3.19h.w.pdb
+C:\Users\Liron\source\repos\6.3.19h.w\6.3.19h.w\obj\Debug\6.3.19h.w.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\6.3.19h.w\6.3.19h.w\obj\Debug\6.3.19h.w.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\6.3.19h.w\6.3.19h.w\obj\Debug\6.3.19h.w.exe
+C:\Users\Liron\source\repos\6.3.19h.w\6.3.19h.w\obj\Debug\6.3.19h.w.pdb
